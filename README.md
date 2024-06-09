@@ -1,2 +1,1 @@
-# Adam-repo
-mi primer repositorio
+https://spontaneous-beignet-aad6a2.netlify.app/
